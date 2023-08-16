@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:pflanzen/pflanze_overlay",
+  "textures": {
+    "cross": "minecraft:item/pflanzen/tomate_pflanze"
+  }
+}

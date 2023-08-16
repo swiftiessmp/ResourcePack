@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:pflanzen/pflanze_overlay2",
+  "textures": {
+    "cross": "minecraft:item/pflanzen/blaubeere_pflanze_1"
+  }
+}

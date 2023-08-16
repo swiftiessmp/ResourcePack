@@ -1,0 +1,657 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefix/taylor_swift.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["ᚁ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefix/fearless.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["ᚂ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefix/speak_now.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["ᚃ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefix/red.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["ᚄ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefix/1989.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["ᚅ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefix/reputation.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["ᚆ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefix/lover.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["ᚇ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefix/folklore.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["ᚈ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefix/evermore.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["ᚉ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefix/midnights.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["ᚊ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefix/admin.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["ᚋ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefix/staff_chat.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["ᚌ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefix/mod.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["ᚍ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:prefix/default.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["ᚎ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/1989.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갋"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/angry.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갌"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/anguished_face.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갍"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/black_heart.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갎"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/blue_heart.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갏"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/broken_heart.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["감"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/brown_heart.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갑"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/cursing.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["값"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/debut.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갓"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/dreamsus.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갔"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/drooling.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["강"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/evermore.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갖"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/expressionless_face.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갗"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/eye.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갘"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/eyes.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["같"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/face_with_hand_over_mouth.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갚"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/face_with_heart_eyes.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갛"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/face_with_raised_eyebrow.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["개"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/face_yummy.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갞"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/fearless.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갟"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/flushed.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갠"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/folklore.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갡"]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/frowning.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갢"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/ghost.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갣"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/green_heart.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갤"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/heart.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갥"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/helpwe.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갦"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/hushed_face.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갧"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/joy.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갨"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/kissy_face.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갩"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/light_blue_heart.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갪"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/lipbite.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갫"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/lipbite_face.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갬"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/loki.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갭"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/lover.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갮"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/midnights.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갯"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/neutral_face.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갰"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/orange_heart.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갱"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/pausers.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갲"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/pensive.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갳"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/persevering_face.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갴"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/pink_heart.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갵"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/pleading_face.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갶"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/purple_heart.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갷"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/red.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갸"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/relieved_face.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갹"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/reputation.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갺"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/rofl.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갻"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/rolling_eyes.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갼"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/rt.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갽"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/shocked.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갾"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/skull.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["갿"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/skull_and_crossbones.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걀"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/smile.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걁"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/smiling_devil.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걂"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/smiling_face_with_hearts.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걃"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/smirking.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걄"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/sob.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걅"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/speak_now.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걆"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/squinting_face_with_tongue.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걇"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/sunglasses_face.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걈"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/thinking_face.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걉"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/tongue.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걊"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/two_heart.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걋"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/twt.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걌"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/uvu.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걍"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/weary_face.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걎"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/white_heart.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걏"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/whyyy.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걐"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/winking.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걑"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/winking_face_with_tongue.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걒"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/woozy_face.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걓"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/worried_face.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걔"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/yawning_face.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걕"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/yellow_heart.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걖"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emojis/zany_face.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["걗"]
+        },
+        {
+            "type": "bitmap", 
+            "file": "minecraft:haken.png",
+            "ascent": 10, 
+            "height": 12,  
+            "chars": ["\u2715"]
+        },
+        {
+            "type": "bitmap", 
+            "file": "minecraft:font/logo.png",
+            "ascent": 0, 
+            "height": 40,  
+            "chars": ["\uE0AA"]
+        },
+        {
+            "type": "ttf",
+            "file": "minecraft:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        }
+    ]
+}
+

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:pflanzen/pflanze_overlay_crop",
+  "textures": {
+    "crop": "minecraft:item/pflanzen/sweet_potatoes_1"
+  }
+}

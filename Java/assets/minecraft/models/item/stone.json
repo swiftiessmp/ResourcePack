@@ -1,0 +1,15 @@
+{
+    "parent": "block/stone",
+  "textures": {
+    "layer0": "minecraft:block/stone"
+  },
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model":"pflanzen/tomate_pflanze"},
+		{ "predicate": {"custom_model_data": 2}, "model":"pflanzen/blaubeere_pflanze_1"},
+		{ "predicate": {"custom_model_data": 3}, "model":"pflanzen/blaubeere_pflanze_2"},
+		{ "predicate": {"custom_model_data": 4}, "model":"pflanzen/brombeere_pflanze_1"},
+		{ "predicate": {"custom_model_data": 5}, "model":"pflanzen/brombeere_pflanze_2"},
+		{ "predicate": {"custom_model_data": 6}, "model":"pflanzen/sweet_potatoes_1"},
+		{ "predicate": {"custom_model_data": 7}, "model":"pflanzen/sweet_potatoes_2"}
+]
+}

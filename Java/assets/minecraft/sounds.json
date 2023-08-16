@@ -1,0 +1,123 @@
+{
+    "music_disc.taylorswiftvigilanteshit": {
+        "sounds": [
+            {
+                "name": "records/taylorswiftvigilanteshit",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.taylorswiftdbatc": {
+        "sounds": [
+            {
+                "name": "records/taylorswiftdbatc",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.taylorswiftforeverandalwaystaylorsversion": {
+        "sounds": [
+            {
+                "name": "records/taylorswiftforeverandalwaystaylorsversion",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.taylorswifttolerateit": {
+        "sounds": [
+            {
+                "name": "records/taylorswifttolerateit",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.taylorswiftkarma": {
+        "sounds": [
+            {
+                "name": "records/taylorswiftkarma",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.taylorswiftalltoowelltaylorsversion": {
+        "sounds": [
+            {
+                "name": "records/taylorswiftalltoowelltaylorsversion",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.taylorswiftlookwhatyoumademedo": {
+        "sounds": [
+            {
+                "name": "records/taylorswiftlookwhatyoumademedo",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.taylorswiftcruelsummer": {
+        "sounds": [
+            {
+                "name": "records/taylorswiftcruelsummer",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.taylorswiftenchanted": {
+        "sounds": [
+            {
+                "name": "records/taylorswiftenchanted",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.taylorswifticanseeyoutaylorsversionfromthevault": {
+        "sounds": [
+            {
+                "name": "records/taylorswifticanseeyoutaylorsversionfromthevault",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.taylorswiftpicturetoburnogversion": {
+        "sounds": [
+            {
+                "name": "records/taylorswiftpicturetoburnogversion",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.taylorswiftdontblameme": {
+        "sounds": [
+            {
+                "name": "records/taylorswiftdontblameme",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.taylorswiftclean": {
+        "sounds": [
+            {
+                "name": "records/taylorswiftclean",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.taylorswiftshouldvesaidno": {
+        "sounds": [
+            {
+                "name": "records/taylorswiftshouldvesaidno",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.taylorswiftaugust": {
+        "sounds": [
+            {
+                "name": "records/taylorswiftaugust",
+                "stream": true
+            }
+        ]
+    }
+}
+

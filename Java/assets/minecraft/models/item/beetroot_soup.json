@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/beetroot_soup"
+  },
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model":"extra/nether_wart_soup"},
+		{ "predicate": {"custom_model_data": 2}, "model":"extra/pumpkin_soup"},
+		{ "predicate": {"custom_model_data": 3}, "model":"extra/potato_soup"},
+		{ "predicate": {"custom_model_data": 4}, "model":"extra/crimson_soup"},
+		{ "predicate": {"custom_model_data": 5}, "model":"extra/warped_soup"}
+]
+}

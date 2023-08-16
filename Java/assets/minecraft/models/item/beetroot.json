@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/beetroot"
+  },
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model":"extra/zuckerstange"},
+		{ "predicate": {"custom_model_data": 2}, "model":"extra/eis_vanille"},
+		{ "predicate": {"custom_model_data": 3}, "model":"extra/eis_schoko"},
+		{ "predicate": {"custom_model_data": 4}, "model":"extra/marshmallow"},
+		{ "predicate": {"custom_model_data": 5}, "model":"extra/schokolade"}
+]
+}

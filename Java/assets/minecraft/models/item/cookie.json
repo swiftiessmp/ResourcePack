@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cookie"
+  },
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model":"extra/banane"},
+		{ "predicate": {"custom_model_data": 2}, "model":"extra/trauben"},
+		{ "predicate": {"custom_model_data": 3}, "model":"extra/trauben2"},
+		{ "predicate": {"custom_model_data": 4}, "model":"extra/ananas"},
+		{ "predicate": {"custom_model_data": 5}, "model":"extra/birne"},
+		{ "predicate": {"custom_model_data": 6}, "model":"extra/blaubeere"},
+		{ "predicate": {"custom_model_data": 7}, "model":"extra/drachenfrucht"},
+		{ "predicate": {"custom_model_data": 8}, "model":"extra/kirsche"},
+		{ "predicate": {"custom_model_data": 9}, "model":"extra/mango"},
+		{ "predicate": {"custom_model_data": 10}, "model":"extra/orange"},
+		{ "predicate": {"custom_model_data": 11}, "model":"extra/sternfrucht"},
+		{ "predicate": {"custom_model_data": 12}, "model":"extra/zitrone"},
+		{ "predicate": {"custom_model_data": 13}, "model":"extra/sweet_berry_cookie"},
+		{ "predicate": {"custom_model_data": 14}, "model":"extra/erdbeere"},
+		{ "predicate": {"custom_model_data": 15}, "model":"extra/brombeere"},
+		{ "predicate": {"custom_model_data": 16}, "model":"extra/erdnuss"},
+		{ "predicate": {"custom_model_data": 17}, "model":"extra/haselnuss"},
+		{ "predicate": {"custom_model_data": 18}, "model":"extra/kokosnuss"}
+]
+}
